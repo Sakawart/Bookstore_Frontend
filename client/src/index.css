@@ -1,0 +1,8 @@
+/* import ที่ 'src/index.js' */
+
+.slider img {
+    height: 550px;  /* ความสูงปรับตามสัดส่วนอัตโนมัติ */
+    object-fit: cover;
+    border-radius: 15px;  /* ปรับความมนของมุม */
+    overflow: hidden; /* ป้องกันส่วนที่เกินขอบโค้งแสดงออกมา */
+}
